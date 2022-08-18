@@ -3,7 +3,7 @@
     <h3>Desenvolvido com as seguintes tecnologias:</h1>
     <img align="center" alt="Lukas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Lukas-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-    <img align="center" alt="Lukas-Pandas" height="30" width="40" src="https://pandas.pydata.org/static/img/pandas.svg"/>
+    <img align="center" style="background-color:white" alt="Lukas-Pandas" height="30" width="40" src="https://pandas.pydata.org/static/img/pandas.svg"/>
 </div>
 <br>
 <div>
