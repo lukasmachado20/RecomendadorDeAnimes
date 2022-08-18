@@ -8,7 +8,7 @@
 <br>
 <div>
     <h3>Descrição do projeto:</h3>
-    <p>Programa desenvolvido em Python que recomenda animes e mangás de acordo com a escolha do usuário.</p>
+    <p>Programa desenvolvido em Python e com a API JIKANPY que recomenda animes e mangás de acordo com a escolha do usuário.</p>
     <p>Retorna para o usuário o nome do anime ou do mangá recomendado.</p>
 </div>
 
